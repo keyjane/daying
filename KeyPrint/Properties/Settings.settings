@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KeyPrint.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://diancan/getprint</Value>
+    </Setting>
+    <Setting Name="token" Type="System.String" Scope="User">
+      <Value Profile="(Default)">action=send&amp;broadcast=Y&amp;uri=112332&amp;username=f8df247d0b2b4277b122f68c94c2caab</Value>
+    </Setting>
+    <Setting Name="PrintTemp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">none</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

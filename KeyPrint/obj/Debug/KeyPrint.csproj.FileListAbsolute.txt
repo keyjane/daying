@@ -1,0 +1,11 @@
+G:\Program Files (x86)\c#\printkey\KeyPrint\KeyPrint\obj\Debug\KeyPrint.Properties.Resources.resources
+G:\Program Files (x86)\c#\printkey\KeyPrint\KeyPrint\obj\Debug\KeyPrint.csproj.GenerateResource.Cache
+G:\Program Files (x86)\c#\printkey\KeyPrint\KeyPrint\obj\Debug\KeyPrint.csproj.CoreCompileInputs.cache
+G:\Program Files (x86)\c#\printkey\KeyPrint\KeyPrint\bin\Debug\KeyPrint.exe.config
+G:\Program Files (x86)\c#\printkey\KeyPrint\KeyPrint\bin\Debug\KeyPrint.exe
+G:\Program Files (x86)\c#\printkey\KeyPrint\KeyPrint\bin\Debug\KeyPrint.pdb
+G:\Program Files (x86)\c#\printkey\KeyPrint\KeyPrint\obj\Debug\KeyPrint.csprojResolveAssemblyReference.cache
+G:\Program Files (x86)\c#\printkey\KeyPrint\KeyPrint\obj\Debug\KeyPrint.exe
+G:\Program Files (x86)\c#\printkey\KeyPrint\KeyPrint\obj\Debug\KeyPrint.pdb
+G:\Program Files (x86)\c#\printkey\KeyPrint\KeyPrint\bin\Debug\Newtonsoft.Json.dll
+G:\Program Files (x86)\c#\printkey\KeyPrint\KeyPrint\bin\Debug\Newtonsoft.Json.xml
