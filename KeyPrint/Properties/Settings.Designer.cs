@@ -37,7 +37,7 @@ namespace KeyPrint.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("action=send&broadcast=Y&uri=112332&username=f8df247d0b2b4277b122f68c94c2caab")]
+        [global::System.Configuration.DefaultSettingValueAttribute("12344444")]
         public string token {
             get {
                 return ((string)(this["token"]));

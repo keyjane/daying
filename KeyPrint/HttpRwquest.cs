@@ -17,8 +17,9 @@ namespace HttpRequest
                 string url = Settings.Default.url;
                 //  string url = "http://diancan1/test";
                 //   MessageBox.Show(StaticSettings.Default.url);
-              // Settings.Default.PrintTemp = "http://diancan1/test";
-             //  Settings.Default.Save();
+                // Settings.Default.PrintTemp = "http://diancan1/test";
+                //  Settings.Default.Save();
+               // MessageBox.Show(url);
 
                 //定义request并设置request的路径
                 WebRequest request = WebRequest.Create(url);
@@ -30,7 +31,7 @@ namespace HttpRequest
                 string postData = Settings.Default.token;
                 //   postData += "&title=C#发送后台请求";
                 //   postData += "&message=利用C#后台向androidpnserver发送HTTP请求实现客户端的消息推送功能。";
-
+                //MessageBox.Show(postData);
 
                 //设置参数的编码格式，解决中文乱码
                 byte[] byteArray = Encoding.UTF8.GetBytes(postData);
@@ -61,13 +62,14 @@ namespace HttpRequest
                 reader.Close();
                 dataStream.Close();
                 response.Close();
+               // MessageBox.Show(responseFromServer);
                 return responseFromServer;
 
             }
             catch (WebException e)
             {
                 //  Console.WriteLine("\r\nWebException Raised. The following error occured : {0}", e.Status);
-                //   MessageBox.Show(e.Status);
+                //  MessageBox.Show("1");
                 return "none";
             }
         }
@@ -126,7 +128,7 @@ namespace HttpRequest
                 response.Close();
               //  MessageBox.Show(responseFromServer);
 
-                //  return responseFromServer;
+                 // return responseFromServer;
 
             }
             catch (WebException e)

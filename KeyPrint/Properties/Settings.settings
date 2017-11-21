@@ -6,7 +6,7 @@
       <Value Profile="(Default)">http://diancan/getprint</Value>
     </Setting>
     <Setting Name="token" Type="System.String" Scope="User">
-      <Value Profile="(Default)">action=send&amp;broadcast=Y&amp;uri=112332&amp;username=f8df247d0b2b4277b122f68c94c2caab</Value>
+      <Value Profile="(Default)">12344444</Value>
     </Setting>
     <Setting Name="PrintTemp" Type="System.String" Scope="User">
       <Value Profile="(Default)">none</Value>

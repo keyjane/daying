@@ -4,7 +4,7 @@ using System.Linq;
 using System.Windows.Forms;
 using HttpRequest;
 using KeyPrint;
-
+using System.Threading;
 
 namespace KeyPrint
 {
@@ -21,16 +21,29 @@ namespace KeyPrint
 
             //  MessageBox.Show(m.status);
             //    MessageBox.Show(m.printaaa);
-            Circulate ci = new Circulate();
-            ci.Forcirculate();
+            //  Circulate ci = new Circulate();
+            //  ci.Forcirculate();
 
-            DoPrint dp = new DoPrint();
-          //  dp.startprint();
+            // DoPrint dp = new DoPrint();
+            //  dp.startprint();
+           // Circulate ci = new Circulate();
+           // ci.Forcirculate();
 
-          //     Application.EnableVisualStyles();
-          //   Application.SetCompatibleTextRenderingDefault(false);
-           //   Application.Run(new Form1());
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);  
+            Application.Run(new Form1());
+
+          
+
+
+
+
+
+            //  Circulate ci = new Circulate();
+            //  ci.Forcirculate();
+
+
+
         }
-    }
-   
-}
+    }  
+ }
